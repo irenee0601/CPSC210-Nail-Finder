@@ -1,0 +1,18 @@
+{"favorites": [
+    {
+        "image": "img1",
+        "name": "Ruby Sparkle",
+        "tags": [
+            "red",
+            "glitter"
+        ]
+    },
+    {
+        "image": "img2",
+        "name": "Ocean Blue",
+        "tags": [
+            "blue",
+            "short"
+        ]
+    }
+]}

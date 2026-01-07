@@ -1,0 +1,29 @@
+{"favorites": [
+    {
+        "image": "img6",
+        "name": "Midnight Black",
+        "tags": [
+            "black",
+            "matte",
+            "long"
+        ]
+    },
+    {
+        "image": "img8",
+        "name": "Snow White",
+        "tags": [
+            "white",
+            "pearl",
+            "clean"
+        ]
+    },
+    {
+        "image": "img11",
+        "name": "Cherry Pop",
+        "tags": [
+            "red",
+            "short",
+            "classic"
+        ]
+    }
+]}
